@@ -1,1 +1,1 @@
-# digital-scholarship-twitter
+# digital-scholarship-bootcamp
