@@ -1,4 +1,20 @@
 body
 {
-    margin:0px;   
+    margin: 0px;
+}
+
+.image1
+{
+    height:150px; 
+    border-radius: 50%; 
+    border: #ce42f5 10px solid;
+}
+
+.background
+{
+    background-image: url('../assets/background.jpeg');
+    background-size: cover; 
+    height:480px; 
+    padding-top:80px; 
+    text-align:center
 }
